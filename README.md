@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,ts,nodejs,react,graphql,py,r)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,aws)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats-tonegawa07s-projects.vercel.app/api/top-langs/?username=tonegawa07&layout=compact)
