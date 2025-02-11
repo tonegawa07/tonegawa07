@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![typograssy](https://typograssy.deno.dev/api?text=tonegawa07&l0=161b22&l1=0d4429&l2=016d32&l3=27a641&l4=3ad353&bg=0d1116&frame=3d444d&comment=)](https://github.com/kawarimidoll/typograssy)
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,ts,nodejs,react,graphql,py,r)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,aws)](https://skillicons.dev)
